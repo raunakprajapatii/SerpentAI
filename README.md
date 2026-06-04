@@ -305,7 +305,7 @@ snake-species-classifier/
 
 **Rounak** — [GitHub](https://github.com/raunakprajapatii) · [LinkedIn](http://www.linkedin.com/in/rounak-prajapati-3896jee)
 
-## Contributors
+## Co-Authors
 
 - **Pratik Prajapati** — [GitHub](https://github.com/USERNAME_HERE)
 - **Vinita Soni** — [GitHub](https://github.com/USERNAME_HERE)
