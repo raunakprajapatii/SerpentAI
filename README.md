@@ -305,7 +305,14 @@ snake-species-classifier/
 
 **Rounak** — [GitHub](https://github.com/raunakprajapatii) · [LinkedIn](http://www.linkedin.com/in/rounak-prajapati-3896jee)
 
-*Built as an academic group course project on deep learning and computer vision*
+## Contributors
+
+- **Pratik Prajapati** — [GitHub](https://github.com/USERNAME_HERE)
+- **Vinita Soni** — [GitHub](https://github.com/USERNAME_HERE)
+- **Shraddha Singh** — [GitHub](https://github.com/USERNAME_HERE)
+- **Priya Singh** — [GitHub](https://github.com/USERNAME_HERE)
+
+*Built as an academic group course project on deep learning and computer vision.*
 
 ---
 
